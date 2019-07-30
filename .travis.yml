@@ -5,3 +5,4 @@ os:
 - linux
 script:
 - ./build.sh
+- ./test.sh
