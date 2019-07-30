@@ -4,4 +4,4 @@ rust:
 os:
 - linux
 script:
-- cargo build --release
+- ./build.sh
